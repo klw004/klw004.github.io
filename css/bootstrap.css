@@ -5796,6 +5796,7 @@ button.close {
 .modal-body {
   position: relative;
   padding: 20px;
+  /*max-height: 200px;*/
 }
 .modal-footer {
   padding: 20px;
