@@ -23,7 +23,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #F7DDD6; /*18bc9c*/
+    color: #319f9e; /*#F7DDD6;*/ /*The Peach color*//*18bc9c*/
 }
 
 h1,
@@ -192,7 +192,7 @@ section.success a:focus,
 section.success a:active,
 section.success a.active {
     outline: 0;
-    color: #2c3e50; 
+    color: #2c3e50; /*dark navy*/
 }
 
 @media(max-width:767px) {
@@ -277,7 +277,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #319f9e; /*main background color*//*#18bc9c;*/
     background: #fff;
 }
 
@@ -347,7 +347,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #2c3e50;
+    background-color: #bd3a7d; /*#2c3e50; the footer color*/
 }
 
 footer .footer-col {
@@ -356,7 +356,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #9F3169; /*#233140;*/
 }
 
 .btn-social {
